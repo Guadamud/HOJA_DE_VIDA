@@ -1,0 +1,46 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #979903;
+}
+
+#container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fafc7c;
+    padding: 20px;
+}
+
+h1 {
+    color: #050505;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+h2 {
+    color: #333;
+}
+
+ul {
+    list-style: square;
+    margin-left: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #333;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
